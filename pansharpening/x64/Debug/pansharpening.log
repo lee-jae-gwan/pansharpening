@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\data\pansharpening\pansharpening\main.cpp(29,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\data\pansharpening\pansharpening\main.cpp(198,94): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pansharpening.vcxproj -> D:\data\pansharpening\x64\Debug\pansharpening.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
